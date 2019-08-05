@@ -1,0 +1,165 @@
+[
+	{
+		"id": "1",
+		"deplCountry": "Argentina",
+		"response": "3",
+		"actualResponse": "1",
+		"covered ": "33.33%",
+		"intensity": "M"
+	},
+	{
+		"id": "2",
+		"deplCountry": "Belgium",
+		"response": "2",
+		"actualResponse": "0",
+		"covered ": "0.00%",
+		"intensity": "L"
+	},
+	{
+		"id": "3",
+		"deplCountry": "Brazil",
+		"response": "9",
+		"actualResponse": "4",
+		"covered ": "44.44%",
+		"intensity": "M"
+	},
+	{
+		"id": "4",
+		"deplCountry": "Canada",
+		"response": "2",
+		"actualResponse": "1",
+		"covered ": "50.00%",
+		"intensity": "M"
+	},
+	{
+		"id": "5",
+		"deplCountry": "China",
+		"response": "4",
+		"actualResponse": "1",
+		"covered ": "25.00%",
+		"intensity": "L"
+	},
+	{
+		"id": "6",
+		"deplCountry": "Czech Republic",
+		"response": "1",
+		"actualResponse": "0",
+		"covered ": "0.00%",
+		"intensity": "L"
+	},
+	{
+		"id": "7",
+		"deplCountry": "France",
+		"response": "2",
+		"actualResponse": "0",
+		"covered ": "0.00%",
+		"intensity": "L"
+	},
+	{
+		"id": "8",
+		"deplCountry": "India",
+		"response": "46",
+		"actualResponse": "34",
+		"covered ": "73.91%",
+		"intensity": "H"
+	},
+	{
+		"id": "9",
+		"deplCountry": "Ireland",
+		"response": "2",
+		"actualResponse": "1",
+		"covered ": "50.00%",
+		"intensity": "M"
+	},
+	{
+		"id": "10",
+		"deplCountry": "Italy",
+		"response": "3",
+		"actualResponse": "3",
+		"covered ": "100.00%",
+		"intensity": "H"
+	},
+	{
+		"id": "11",
+		"deplCountry": "Malaysia",
+		"response": "1",
+		"actualResponse": "1",
+		"covered ": "100.00%",
+		"intensity": "H"
+	},
+	{
+		"id": "12",
+		"deplCountry": "Norway",
+		"response": "1",
+		"actualResponse": "1",
+		"covered ": "100.00%",
+		"intensity": "H"
+	},
+	{
+		"id": "13",
+		"deplCountry": "Philippines",
+		"response": "15",
+		"actualResponse": "14",
+		"covered ": "93.33%",
+		"intensity": "H"
+	},
+	{
+		"id": "14",
+		"deplCountry": "Poland",
+		"response": "1",
+		"actualResponse": "1",
+		"covered ": "100.00%",
+		"intensity": "H"
+	},
+	{
+		"id": "15",
+		"deplCountry": "Portugal",
+		"response": "1",
+		"actualResponse": "1",
+		"covered ": "100.00%",
+		"intensity": "H"
+	},
+	{
+		"id": "16",
+		"deplCountry": "Romania",
+		"response": "1",
+		"actualResponse": "0",
+		"covered ": "0.00%",
+		"intensity": "L"
+	},
+	{
+		"id": "17",
+		"deplCountry": "South Africa",
+		"response": "1",
+		"actualResponse": "0",
+		"covered ": "0.00%",
+		"intensity": "L"
+	},
+	{
+		"id": "18",
+		"deplCountry": "Spain",
+		"response": "3",
+		"actualResponse": "1",
+		"covered ": "33.33%",
+		"intensity": "M"
+	},
+	{
+		"id": "19",
+		"deplCountry": "United Kingdom",
+		"response": "11",
+		"actualResponse": "7",
+		"covered ": "63.64%",
+		"intensity": "H"
+	},
+	{
+		"id": "20",
+		"deplCountry": "USA",
+		"response": "39",
+		"actualResponse": "30",
+		"covered ": "76.92%",
+		"intensity": "H"
+	},
+	{
+		"id": ""
+	}
+]
