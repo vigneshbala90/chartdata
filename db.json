@@ -1,5 +1,4 @@
-[
-	{
+[{
 		"id": "1",
 		"deplCountry": "Argentina",
 		"countryShort": "AR",
@@ -218,8 +217,5 @@
 		"actualResponse": "30",
 		"covered ": "76.92%",
 		"intensity": "H"
-	},
-	{
-		"id": ""
 	}
 ]
