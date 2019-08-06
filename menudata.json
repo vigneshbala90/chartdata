@@ -1,6 +1,18 @@
 [
     {
         "accessLevelName": "Full Access",
+        "elementTypeName": "LINKBUTTON",
+        "id": 0,
+        "isMenu": 1,
+        "moduleId": 1,
+        "moduleName": "Admin",
+        "pageElementDisplayName": "ADMIN",
+        "pageElementFileName": null,
+        "pageElementSortOrder": 1,
+        "pages": null,
+        "parentid": -1
+    },{
+        "accessLevelName": "Full Access",
         "elementTypeName": "PAGE",
         "id": 1,
         "isMenu": 0,
