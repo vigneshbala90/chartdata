@@ -22,7 +22,7 @@
         "pageElementFileName": "",
         "pageElementSortOrder": 3,
         "pages": null,
-        "parentid": 2
+        "parentid": 0
     },
     {
         "accessLevelName": "Full Access",
@@ -35,7 +35,7 @@
         "pageElementFileName": "/fileupload/disputeUpload",
         "pageElementSortOrder": 5,
         "pages": null,
-        "parentid": 2
+        "parentid": 0
     },
     {
         "accessLevelName": "Full Access",
@@ -48,7 +48,7 @@
         "pageElementFileName": "/customerCollectorMapping",
         "pageElementSortOrder": 2,
         "pages": null,
-        "parentid": 2
+        "parentid": 0
     },
     {
         "accessLevelName": "Full Access",
@@ -61,7 +61,7 @@
         "pageElementFileName": "/fileupload/partnerBulkUpload",
         "pageElementSortOrder": 4,
         "pages": null,
-        "parentid": 2
+        "parentid": 0
     },
     {
         "accessLevelName": "No Access",
@@ -74,7 +74,7 @@
         "pageElementFileName": "/fileupload/documentTypeUpload",
         "pageElementSortOrder": 7,
         "pages": null,
-        "parentid": 2
+        "parentid": 0
     },
     {
         "accessLevelName": "No Access",
@@ -87,7 +87,7 @@
         "pageElementFileName": "/fileupload/invoiceUpload",
         "pageElementSortOrder": 8,
         "pages": null,
-        "parentid": 2
+        "parentid": 0
     },
     {
         "accessLevelName": "Full Access",
@@ -100,7 +100,7 @@
         "pageElementFileName": "/fileupload/partnerCustomerUpload",
         "pageElementSortOrder": 6,
         "pages": null,
-        "parentid": 2
+        "parentid": 0
     },
     {
         "accessLevelName": "Full Access",
@@ -113,38 +113,12 @@
         "pageElementFileName": "/userDetails",
         "pageElementSortOrder": 1,
         "pages": null,
-        "parentid": 2
-    },
-    {
-        "accessLevelName": "No Access",
-        "elementTypeName": "PAGE",
-        "id": 9,
-        "isMenu": 0,
-        "moduleId": 2,
-        "moduleName": "Work Queue",
-        "pageElementDisplayName": "My Queue",
-        "pageElementFileName": "/myWorkQueue",
-        "pageElementSortOrder": 1,
-        "pages": null,
-        "parentid": 11
-    },
-    {
-        "accessLevelName": "Full Access",
-        "elementTypeName": "PAGE",
-        "id": 10,
-        "isMenu": 0,
-        "moduleId": 2,
-        "moduleName": "Work Queue",
-        "pageElementDisplayName": "Search Customer",
-        "pageElementFileName": "",
-        "pageElementSortOrder": 2,
-        "pages": null,
-        "parentid": 11
+        "parentid": 0
     },
     {
         "accessLevelName": "Full Access",
         "elementTypeName": "LINKBUTTON",
-        "id": 11,
+        "id": 9,
         "isMenu": 1,
         "moduleId": 2,
         "moduleName": "Work Queue",
@@ -155,100 +129,35 @@
         "parentid": -1
     },
     {
-        "accessLevelName": "Full Access",
-        "elementTypeName": "PAGE",
-        "id": 12,
-        "isMenu": 0,
-        "moduleId": 3,
-        "moduleName": "Reports",
-        "pageElementDisplayName": "Aged Disputes Balance (Transaction) report",
-        "pageElementFileName": "",
-        "pageElementSortOrder": 7,
-        "pages": null,
-        "parentid": 16
-    },
-    {
-        "accessLevelName": "Full Access",
-        "elementTypeName": "PAGE",
-        "id": 13,
-        "isMenu": 0,
-        "moduleId": 3,
-        "moduleName": "Reports",
-        "pageElementDisplayName": "Aged Trail Balance (Base) report",
-        "pageElementFileName": "",
-        "pageElementSortOrder": 5,
-        "pages": null,
-        "parentid": 16
-    },
-    {
-        "accessLevelName": "Full Access",
-        "elementTypeName": "PAGE",
-        "id": 14,
-        "isMenu": 0,
-        "moduleId": 3,
-        "moduleName": "Reports",
-        "pageElementDisplayName": "Aged Trail Balance (Transaction) report",
-        "pageElementFileName": "",
-        "pageElementSortOrder": 6,
-        "pages": null,
-        "parentid": 16
-    },
-    {
-        "accessLevelName": "Full Access",
-        "elementTypeName": "PAGE",
-        "id": 15,
-        "isMenu": 0,
-        "moduleId": 3,
-        "moduleName": "Reports",
-        "pageElementDisplayName": "Dispute Report",
-        "pageElementFileName": "",
-        "pageElementSortOrder": 4,
-        "pages": null,
-        "parentid": 16
-    },
-    {
         "accessLevelName": "No Access",
         "elementTypeName": "PAGE",
-        "id": 16,
+        "id": 10,
         "isMenu": 0,
-        "moduleId": 3,
-        "moduleName": "Reports",
-        "pageElementDisplayName": "Document Type Report",
-        "pageElementFileName": "",
+        "moduleId": 2,
+        "moduleName": "Work Queue",
+        "pageElementDisplayName": "My Queue",
+        "pageElementFileName": "/myWorkQueue",
         "pageElementSortOrder": 1,
         "pages": null,
-        "parentid": 16
+        "parentid": 9
     },
     {
         "accessLevelName": "Full Access",
         "elementTypeName": "PAGE",
-        "id": 17,
+        "id": 11,
         "isMenu": 0,
-        "moduleId": 3,
-        "moduleName": "Reports",
-        "pageElementDisplayName": "File Upload History Report",
-        "pageElementFileName": "",
-        "pageElementSortOrder": 8,
-        "pages": null,
-        "parentid": 16
-    },
-    {
-        "accessLevelName": "Full Access",
-        "elementTypeName": "PAGE",
-        "id": 18,
-        "isMenu": 0,
-        "moduleId": 3,
-        "moduleName": "Reports",
-        "pageElementDisplayName": "Partner/Customer Import Error Report",
+        "moduleId": 2,
+        "moduleName": "Work Queue",
+        "pageElementDisplayName": "Search Customer",
         "pageElementFileName": "",
         "pageElementSortOrder": 2,
         "pages": null,
-        "parentid": 16
+        "parentid": 9
     },
     {
         "accessLevelName": "Full Access",
         "elementTypeName": "LINKBUTTON",
-        "id": 19,
+        "id": 12,
         "isMenu": 1,
         "moduleId": 3,
         "moduleName": "Reports",
@@ -261,6 +170,97 @@
     {
         "accessLevelName": "Full Access",
         "elementTypeName": "PAGE",
+        "id": 13,
+        "isMenu": 0,
+        "moduleId": 3,
+        "moduleName": "Reports",
+        "pageElementDisplayName": "Aged Disputes Balance (Transaction) report",
+        "pageElementFileName": "",
+        "pageElementSortOrder": 7,
+        "pages": null,
+        "parentid": 12
+    },
+    {
+        "accessLevelName": "Full Access",
+        "elementTypeName": "PAGE",
+        "id": 14,
+        "isMenu": 0,
+        "moduleId": 3,
+        "moduleName": "Reports",
+        "pageElementDisplayName": "Aged Trail Balance (Base) report",
+        "pageElementFileName": "",
+        "pageElementSortOrder": 5,
+        "pages": null,
+        "parentid": 12
+    },
+    {
+        "accessLevelName": "Full Access",
+        "elementTypeName": "PAGE",
+        "id": 15,
+        "isMenu": 0,
+        "moduleId": 3,
+        "moduleName": "Reports",
+        "pageElementDisplayName": "Aged Trail Balance (Transaction) report",
+        "pageElementFileName": "",
+        "pageElementSortOrder": 6,
+        "pages": null,
+        "parentid": 12
+    },
+    {
+        "accessLevelName": "Full Access",
+        "elementTypeName": "PAGE",
+        "id": 16,
+        "isMenu": 0,
+        "moduleId": 3,
+        "moduleName": "Reports",
+        "pageElementDisplayName": "Dispute Report",
+        "pageElementFileName": "",
+        "pageElementSortOrder": 4,
+        "pages": null,
+        "parentid": 12
+    },
+    {
+        "accessLevelName": "No Access",
+        "elementTypeName": "PAGE",
+        "id": 17,
+        "isMenu": 0,
+        "moduleId": 3,
+        "moduleName": "Reports",
+        "pageElementDisplayName": "Document Type Report",
+        "pageElementFileName": "",
+        "pageElementSortOrder": 1,
+        "pages": null,
+        "parentid": 12
+    },
+    {
+        "accessLevelName": "Full Access",
+        "elementTypeName": "PAGE",
+        "id": 18,
+        "isMenu": 0,
+        "moduleId": 3,
+        "moduleName": "Reports",
+        "pageElementDisplayName": "File Upload History Report",
+        "pageElementFileName": "",
+        "pageElementSortOrder": 8,
+        "pages": null,
+        "parentid": 12
+    },
+    {
+        "accessLevelName": "Full Access",
+        "elementTypeName": "PAGE",
+        "id": 19,
+        "isMenu": 0,
+        "moduleId": 3,
+        "moduleName": "Reports",
+        "pageElementDisplayName": "Partner/Customer Import Error Report",
+        "pageElementFileName": "",
+        "pageElementSortOrder": 2,
+        "pages": null,
+        "parentid": 12
+    },
+    {
+        "accessLevelName": "Full Access",
+        "elementTypeName": "PAGE",
         "id": 20,
         "isMenu": 0,
         "moduleId": 3,
@@ -269,7 +269,7 @@
         "pageElementFileName": "",
         "pageElementSortOrder": 3,
         "pages": null,
-        "parentid": 16
+        "parentid": 12
     },
     {
         "accessLevelName": "Full Access",
@@ -282,7 +282,7 @@
         "pageElementFileName": "",
         "pageElementSortOrder": 9,
         "pages": null,
-        "parentid": 16
+        "parentid": 12
     },
     {
         "accessLevelName": "Full Access",
