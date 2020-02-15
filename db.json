@@ -1,14 +1,11 @@
 {
-    "posts": [
-      {
-        "empID": 123,
-        "vhType": "bike",
-        "vhNum": "tn 59",
-        "vhSeat": "5",
-        "time": "12pm",
-        "pick": "madiwala",
-        "destination": "bellandur",
-      }
-    ]
-  }
- 
+	"posts": [{
+		"empID": 123,
+		"vhType": "bike",
+		"vhNum": "tn 59",
+		"vhSeat": "5",
+		"time": "12pm",
+		"pick": "madiwala",
+		"destination": "bellandur"
+	}]
+}
