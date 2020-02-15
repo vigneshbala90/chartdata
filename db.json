@@ -1,5 +1,8 @@
 {
-  "posts": [{
-    "test": "success"
-  }]
+  "rides": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ]
 }
